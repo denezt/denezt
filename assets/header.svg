@@ -1,0 +1,61 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Neon glow filter -->
+    <filter id="neonGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Gradient for text -->
+    <linearGradient id="neonGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00FF9C"/>
+      <stop offset="50%" stop-color="#00EAFF"/>
+      <stop offset="100%" stop-color="#FF00FF"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="#050505"/>
+
+  <!-- Grid lines (cyberpunk vibe) -->
+  <g stroke="#0f0f0f" stroke-width="1">
+    <line x1="0" y1="50" x2="1200" y2="50"/>
+    <line x1="0" y1="100" x2="1200" y2="100"/>
+    <line x1="0" y1="150" x2="1200" y2="150"/>
+    <line x1="0" y1="200" x2="1200" y2="200"/>
+    <line x1="0" y1="250" x2="1200" y2="250"/>
+  </g>
+
+  <!-- Neon Text -->
+  <text
+    x="50%"
+    y="55%"
+    dominant-baseline="middle"
+    text-anchor="middle"
+    font-family="Fira Code, monospace"
+    font-size="80"
+    fill="url(#neonGradient)"
+    filter="url(#neonGlow)"
+    letter-spacing="4"
+  >
+    BUILDING TOMORROW
+  </text>
+
+  <!-- Sub text -->
+  <text
+    x="50%"
+    y="75%"
+    dominant-baseline="middle"
+    text-anchor="middle"
+    font-family="Fira Code, monospace"
+    font-size="18"
+    fill="#00FF9C"
+    opacity="0.8"
+  >
+    AUTONOMOUS INFRASTRUCTURE • GPU • CLUSTERS • CI/CD
+  </text>
+</svg>
