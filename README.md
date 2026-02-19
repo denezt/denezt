@@ -1,16 +1,29 @@
-## Hi there 👋
+<!-- 
+<p align="center">
+  <img src="assets/header.svg" width="100%" />
+</p>
 
-<!--
-**denezt/denezt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=900&lines=Richard+Jackson;AUTOMATION+ENGINEER;DATA+SCIENCE+%7C+GPU+COMPUTING;CLUSTERS+%7C+CI%2FCD+%7C+SECURITY" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<img src="" />
+
+
+
+
+[LINKEDIN](https://www.linkedin.com/in/uruscg)  
+[WEBSITE](https://www.garagebarge.com)
+
+
+### ⚡ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-00ff9c?style=for-the-badge&logo=python&logoColor=black)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-00eaff?style=for-the-badge&logo=kubernetes&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-00eaff?style=for-the-badge&logo=docker&logoColor=black)
+![CUDA](https://img.shields.io/badge/CUDA-39ff14?style=for-the-badge&logo=nvidia&logoColor=black)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-ff00ff?style=for-the-badge&logo=gitlab&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-00ff9c?style=for-the-badge&logo=linux&logoColor=black)
+
 -->
