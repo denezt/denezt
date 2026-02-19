@@ -1,21 +1,16 @@
-<!-- 
+
 <p align="center">
   <img src="assets/header.svg" width="100%" />
 </p>
 
+<p align="center">
+  <img src="assets/myskills-metrics.svg" width="100%" />
+</p>
 
+ 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=900&lines=Richard+Jackson;AUTOMATION+ENGINEER;DATA+SCIENCE+%7C+GPU+COMPUTING;CLUSTERS+%7C+CI%2FCD+%7C+SECURITY" />
 </p>
-
-<img src="" />
-
-
-
-
-[LINKEDIN](https://www.linkedin.com/in/uruscg)  
-[WEBSITE](https://www.garagebarge.com)
-
 
 ### ⚡ Tech Stack
 
@@ -26,4 +21,8 @@
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-ff00ff?style=for-the-badge&logo=gitlab&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-00ff9c?style=for-the-badge&logo=linux&logoColor=black)
 
--->
+
+
+[LINKEDIN](https://www.linkedin.com/in/uruscg)  
+[WEBSITE](https://www.garagebarge.com)
+
